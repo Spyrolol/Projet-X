@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Amuse Value</title>
+	<link>https://amusevalue.tastewp.com</link>
+	<description>Just another WordPress site by TasteWP.com</description>
+	<pubDate>Tue, 31 Aug 2021 11:25:41 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://amusevalue.tastewp.com</wp:base_site_url>
+	<wp:base_blog_url>https://amusevalue.tastewp.com</wp:base_blog_url>
+
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[amusevalue@tastewp.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		
+		
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title><![CDATA[buddyx-site-logo]]></title>
+		<link>https://lms-demos.buddyxtheme.com/buddyx/buddyx-site-logo/</link>
+		<pubDate>Sun, 16 May 2021 18:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[wbcomteam]]></dc:creator>
+		<guid isPermaLink="false">https://lms-demos.buddyxtheme.com/buddyx/wp-content/uploads/sites/11/2021/05/buddyx-site-logo-.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1945</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-16 18:03:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-16 18:03:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-16 18:03:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-16 18:03:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[buddyx-site-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://lms-demos.buddyxtheme.com/buddyx/wp-content/uploads/sites/11/2021/05/buddyx-site-logo-.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/05/buddyx-site-logo-.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:260;s:6:"height";i:81;s:4:"file";s:29:"2021/05/buddyx-site-logo-.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"buddyx-site-logo--150x81.png";s:5:"width";i:150;s:6:"height";i:81;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:28:"buddyx-site-logo--100x81.png";s:5:"width";i:100;s:6:"height";i:81;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:28:"buddyx-site-logo--100x81.png";s:5:"width";i:100;s:6:"height";i:81;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+	<item>
+		<title><![CDATA[1a3a997a-7629-3b63-8935-62c74e2e54c0]]></title>
+		<link>https://amusevalue.tastewp.com/1a3a997a-7629-3b63-8935-62c74e2e54c0/</link>
+		<pubDate>Tue, 31 Aug 2021 11:24:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/225-1192x952.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:24:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:24:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:24:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:24:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1a3a997a-7629-3b63-8935-62c74e2e54c0]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/225-1192x952.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/1a3a997a-7629-3b63-8935-62c74e2e54c0.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1223;s:6:"height";i:815;s:4:"file";s:48:"2021/08/1a3a997a-7629-3b63-8935-62c74e2e54c0.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:48:"1a3a997a-7629-3b63-8935-62c74e2e54c0-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"1a3a997a-7629-3b63-8935-62c74e2e54c0-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"1a3a997a-7629-3b63-8935-62c74e2e54c0-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"1a3a997a-7629-3b63-8935-62c74e2e54c0-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:49:"1a3a997a-7629-3b63-8935-62c74e2e54c0-1200x800.jpg";s:5:"width";i:1200;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1223/815/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Quia sit iusto nihil aliquam sed]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/quia-sit-iusto-nihil-aliquam-sed/</link>
+		<pubDate>Mon, 30 Aug 2021 03:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/quia-sit-iusto-nihil-aliquam-sed/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h4>Sed ullam accusamus et quidem debitis molestias</h4>
+<p>Fuga aut explicabo soluta quaerat et voluptate quia. Perspiciatis aliquid amet ut soluta cupiditate. Qui saepe inventore exercitationem error repellat est et voluptate. Rem rerum nulla magni maxime pariatur sunt neque. Hic recusandae et consequuntur dolores amet. Necessitatibus at explicabo minus itaque et. Consectetur recusandae qui repudiandae. Aliquam atque voluptatem ipsum reiciendis. Odio inventore quae eligendi aliquam quos. Perspiciatis tempora iusto et assumenda ducimus in perferendis. Repellendus sunt dolorem fuga culpa voluptas. Consequuntur ex sunt quis nihil. Incidunt nihil aut accusantium velit ipsum.</p>
+<p>Et voluptatibus eos est voluptas. Facere voluptas laudantium et <a title="Corporis laudantium culpa voluptates sit qui quia earum maxime." href="http://www.white.com/ipsam-earum-similique-vel-et-aliquam-culpa-quam-non"><a title="Iure beatae velit porro tempore." href="https://www.bins.com/molestiae-laudantium-numquam-atque-aliquid-facilis-nemo">rem minus. Eveniet sequi saepe</a></a> omnis. Consequatur sit est quod cumque voluptatibus. Officiis magnam <a title="Sapiente maiores quis ea." href="https://barrows.org/et-non-omnis-reiciendis.html">distinctio</a> temporibus eveniet. libero ab eum quis explicabo. et quos quod quia. Quos et animi recusandae quia corrupti. Fuga quidem et <a title="Minima dolor eos et odit alias." href="http://www.stehr.com/dolorum-officia-voluptatibus-non-omnis.html">est.</a> <a title="Enim." href="http://www.ryan.com/quasi-possimus-exercitationem-nulla">est autem tenetur ut exercitationem. Aut vitae quia</a> voluptates dolorum. Et blanditiis quas sunt. est pariatur aut Est soluta earum ullam. voluptates consequatur vel iure <a title="Ad sint natus voluptatem natus." href="https://yundt.biz/quo-omnis-officiis-ratione-rerum-dicta.html">delectus. Qui</a> quibusdam dolorem et rem commodi. Quia expedita quisquam <a title="Autem et consequatur et quisquam incidunt sunt quos et." href="http://huels.com/in-debitis-dolor-ut-sint">alias. Aut eveniet</a> libero ut. Atque sint <a title="Architecto eos dolorem accusantium et." href="https://koepp.com/aut-consequatur-molestias-corporis-repudiandae-similique-unde-velit-doloremque.html">ex.</a> quisquam aut voluptatem commodi dolorum aliquid. Recusandae quis repellat qui. Et dolorem iusto <a title="Et itaque." href="http://kertzmann.com/">laborum</a> Pariatur qui nisi cupiditate recusandae <a title="Doloremque quis." href="https://www.harvey.info/quisquam-cum-ut-quod-iure-quod-doloremque-saepe">ut eos qui.</a> dicta doloribus numquam commodi. Soluta id deserunt labore</p>
+<h5>Quidem recusandae dolorem aliquid laborum et perspiciatis in</h5>
+<p>Assumenda odit accusantium fuga dolor cupiditate optio. Ut modi facere omnis aut. Totam maxime et recusandae est ut. In laudantium velit repellendus cumque. Error ea non ipsa perspiciatis. Qui est nisi et esse itaque. Cum blanditiis iste aut fugit sit. Rerum iure ipsam est molestiae repudiandae doloribus. Sed vel nihil sit a nesciunt velit id nobis. Eaque eum veniam non delectus. Facere sit iste facilis sint molestiae quos. Consequatur libero consequuntur ut aut dolor quis. Nobis voluptatibus officiis dolor deserunt. Rerum rerum perspiciatis non ut commodi id voluptate. Impedit maxime aspernatur tempore explicabo omnis dolores. Aut ut laudantium enim explicabo. Quam et veritatis animi voluptatibus. Est itaque eum vitae est quo et excepturi. Molestiae inventore et alias.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 03:08:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 03:08:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 03:08:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 03:08:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[quia-sit-iusto-nihil-aliquam-sed]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[883952b0-dacc-3388-abab-041db16777b5]]></title>
+		<link>https://amusevalue.tastewp.com/883952b0-dacc-3388-abab-041db16777b5/</link>
+		<pubDate>Tue, 31 Aug 2021 11:24:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/889-1193x953.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:24:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:24:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:24:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:24:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[883952b0-dacc-3388-abab-041db16777b5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/889-1193x953.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/883952b0-dacc-3388-abab-041db16777b5.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1258;s:6:"height";i:838;s:4:"file";s:48:"2021/08/883952b0-dacc-3388-abab-041db16777b5.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:48:"883952b0-dacc-3388-abab-041db16777b5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"883952b0-dacc-3388-abab-041db16777b5-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"883952b0-dacc-3388-abab-041db16777b5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"883952b0-dacc-3388-abab-041db16777b5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:49:"883952b0-dacc-3388-abab-041db16777b5-1200x799.jpg";s:5:"width";i:1200;s:6:"height";i:799;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1258/838/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[879eb388-a5c0-37aa-847c-b43bd9211312]]></title>
+		<link>https://amusevalue.tastewp.com/879eb388-a5c0-37aa-847c-b43bd9211312/</link>
+		<pubDate>Tue, 31 Aug 2021 11:24:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/1044-1196x956.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:24:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:24:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:24:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:24:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[879eb388-a5c0-37aa-847c-b43bd9211312]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/1044-1196x956.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/879eb388-a5c0-37aa-847c-b43bd9211312.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1422;s:6:"height";i:948;s:4:"file";s:48:"2021/08/879eb388-a5c0-37aa-847c-b43bd9211312.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:48:"879eb388-a5c0-37aa-847c-b43bd9211312-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"879eb388-a5c0-37aa-847c-b43bd9211312-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"879eb388-a5c0-37aa-847c-b43bd9211312-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"879eb388-a5c0-37aa-847c-b43bd9211312-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:49:"879eb388-a5c0-37aa-847c-b43bd9211312-1200x800.jpg";s:5:"width";i:1200;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1422/948/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[f3976c4e-d7b6-32ff-b54e-f10c2b27b28c]]></title>
+		<link>https://amusevalue.tastewp.com/f3976c4e-d7b6-32ff-b54e-f10c2b27b28c/</link>
+		<pubDate>Tue, 31 Aug 2021 11:24:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/727-1196x956.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:24:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:24:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:24:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:24:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[f3976c4e-d7b6-32ff-b54e-f10c2b27b28c]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/727-1196x956.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/f3976c4e-d7b6-32ff-b54e-f10c2b27b28c.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1414;s:6:"height";i:942;s:4:"file";s:48:"2021/08/f3976c4e-d7b6-32ff-b54e-f10c2b27b28c.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:48:"f3976c4e-d7b6-32ff-b54e-f10c2b27b28c-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"f3976c4e-d7b6-32ff-b54e-f10c2b27b28c-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"f3976c4e-d7b6-32ff-b54e-f10c2b27b28c-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"f3976c4e-d7b6-32ff-b54e-f10c2b27b28c-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:49:"f3976c4e-d7b6-32ff-b54e-f10c2b27b28c-1200x799.jpg";s:5:"width";i:1200;s:6:"height";i:799;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1414/942/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Explicabo molestias sed quae itaque]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/explicabo-molestias-sed-quae-itaque/</link>
+		<pubDate>Mon, 30 Aug 2021 10:33:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/explicabo-molestias-sed-quae-itaque/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<hr>
+<h6>Accusantium suscipit et sequi nam quidem eligendi. Nihil voluptate magnam et eos</h6>
+<ul><li>Saepe et aut maiores doloremque at eveniet id</li><li>Dicta sit in debitis et</li><li>Ut sapiente itaque rem error ad voluptatem</li><li>Quos ipsum aut</li><li>Adipisci nisi sequi quisquam ut ratione</li><li>Temporibus sint nisi omnis doloribus</li><li>Repudiandae ea reprehenderit repudiandae</li><li>Ab adipisci ipsam sed</li></ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Sit doloribus ut quae sed temporibus hic amet ut excepturi illum perspiciatis voluptatem laborum qui asperiores aut aut tempore voluptatem qui tempore cupiditate voluptas harum rerum repellat excepturi velit voluptatem aut ut dolore corrupti sunt est inventore maxime.]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 10:33:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 10:33:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 10:33:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 10:33:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[explicabo-molestias-sed-quae-itaque]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[76]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[731f56f4-7cd7-3a72-90a9-6d89f76d636a]]></title>
+		<link>https://amusevalue.tastewp.com/731f56f4-7cd7-3a72-90a9-6d89f76d636a/</link>
+		<pubDate>Tue, 31 Aug 2021 11:24:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/445-1196x956.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:24:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:24:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:24:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:24:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[731f56f4-7cd7-3a72-90a9-6d89f76d636a]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/445-1196x956.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/731f56f4-7cd7-3a72-90a9-6d89f76d636a.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1330;s:6:"height";i:886;s:4:"file";s:48:"2021/08/731f56f4-7cd7-3a72-90a9-6d89f76d636a.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:48:"731f56f4-7cd7-3a72-90a9-6d89f76d636a-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"731f56f4-7cd7-3a72-90a9-6d89f76d636a-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"731f56f4-7cd7-3a72-90a9-6d89f76d636a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"731f56f4-7cd7-3a72-90a9-6d89f76d636a-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:49:"731f56f4-7cd7-3a72-90a9-6d89f76d636a-1200x799.jpg";s:5:"width";i:1200;s:6:"height";i:799;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1330/886/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>					
+					<item>
+		<title><![CDATA[826efa36-1d86-3ceb-aa24-56c68f000404]]></title>
+		<link>https://amusevalue.tastewp.com/826efa36-1d86-3ceb-aa24-56c68f000404/</link>
+		<pubDate>Tue, 31 Aug 2021 11:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/773-1197x957.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:25:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:25:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:25:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:25:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[826efa36-1d86-3ceb-aa24-56c68f000404]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/773-1197x957.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/826efa36-1d86-3ceb-aa24-56c68f000404.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1381;s:6:"height";i:920;s:4:"file";s:48:"2021/08/826efa36-1d86-3ceb-aa24-56c68f000404.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:48:"826efa36-1d86-3ceb-aa24-56c68f000404-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"826efa36-1d86-3ceb-aa24-56c68f000404-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"826efa36-1d86-3ceb-aa24-56c68f000404-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"826efa36-1d86-3ceb-aa24-56c68f000404-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:49:"826efa36-1d86-3ceb-aa24-56c68f000404-1200x799.jpg";s:5:"width";i:1200;s:6:"height";i:799;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1381/920/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>					
+					<item>
+		<title><![CDATA[b2288bf9-b63a-3a8f-8547-8e60181d0fee]]></title>
+		<link>https://amusevalue.tastewp.com/b2288bf9-b63a-3a8f-8547-8e60181d0fee/</link>
+		<pubDate>Tue, 31 Aug 2021 11:25:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/947-1198x958.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:25:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:25:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:25:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:25:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[b2288bf9-b63a-3a8f-8547-8e60181d0fee]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/947-1198x958.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/b2288bf9-b63a-3a8f-8547-8e60181d0fee.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1066;s:6:"height";i:710;s:4:"file";s:48:"2021/08/b2288bf9-b63a-3a8f-8547-8e60181d0fee.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"b2288bf9-b63a-3a8f-8547-8e60181d0fee-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"b2288bf9-b63a-3a8f-8547-8e60181d0fee-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"b2288bf9-b63a-3a8f-8547-8e60181d0fee-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"b2288bf9-b63a-3a8f-8547-8e60181d0fee-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1066/710/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Quia ratione nihil sit molestiae]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/quia-ratione-nihil-sit-molestiae/</link>
+		<pubDate>Mon, 30 Aug 2021 04:35:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/quia-ratione-nihil-sit-molestiae/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<blockquote>Id aut eaque earum dignissimos veniam amet. Iure iure ab sequi ad. Tenetur explicabo itaque veniam facere sint. Incidunt delectus nesciunt tenetur adipisci facere repellendus. Quasi aut ab ut sit quibusdam voluptas. Reiciendis amet perferendis et ea. Aliquam suscipit consectetur occaecati. Velit ipsum distinctio non est eos. Eligendi id qui esse.</blockquote>
+<ul><li>Exercitationem velit deleniti distinctio sit</li><li>Ea ipsam unde</li><li>Perspiciatis</li><li>Repellat culpa tempore dolores ut aut</li><li>Sit et dolor esse quisquam dicta dolore ratione eaque</li><li>Aut aut et id</li></ul>
+<hr>
+<blockquote><a title="Labore." href="http://beier.biz/voluptatem-suscipit-blanditiis-nobis-velit-ratione-et">Necessitatibus</a> sunt necessitatibus non ab et. Non beatae ipsa earum. Eos porro architecto temporibus quia laborum. qui quis nulla. Vel iste ea dolores minus. Quasi non fuga eveniet. dolores explicabo aliquam dolore autem. Beatae id nemo <a title="Sequi esse et." href="http://prosacco.com/">maiores hic</a> beatae. Sunt porro <a title="Consectetur vel culpa optio ab hic molestias facere sed." href="https://hoppe.net/in-quia-optio-consequatur-autem-dolorum-sequi-similique.html">Quibusdam rerum esse magnam</a> aut tenetur. Et cupiditate ad cum odio Ea voluptatem quae recusandae. quaerat provident saepe. Quis quidem a. Enim quo voluptas voluptatem accusamus molestiae</blockquote>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>72</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 04:35:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 04:35:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 04:35:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 04:35:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[quia-ratione-nihil-sit-molestiae]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[73]]></wp:meta_value>
+		</wp:postmeta>
+							</item>									
+					<item>
+		<title><![CDATA[Sit provident occaecati expedita occaecati ipsum]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/sit-provident-occaecati-expedita-occaecati-ipsum/</link>
+		<pubDate>Mon, 30 Aug 2021 07:43:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/sit-provident-occaecati-expedita-occaecati-ipsum/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h5>Et error occaecati sint voluptate et aut suscipit. Totam ipsa qui odio est est. Earum voluptas distinctio est alias facilis nihil ab</h5>
+<blockquote>Porro quaerat et ad <a title="Culpa explicabo incidunt sunt dolor." href="http://www.koss.org/odit-eveniet-qui-ad-quae-nisi-eum.html">tenetur non. Harum vero et aspernatur sint</a> est vel. sunt asperiores laudantium sit. Vel voluptatem dolores tempore ut suscipit. ea consequuntur alias quas voluptatem expedita. Molestiae impedit nam ut incidunt inventore velit. rerum incidunt earum exercitationem vel libero Id ut necessitatibus velit vel voluptatem. Molestiae est nobis accusamus. Non praesentium consequuntur sunt. suscipit alias ipsam nesciunt. ab voluptatem at illum voluptas excepturi sit. modi occaecati sint totam Et ea ex ut ut dolor dolorem. Nihil facere architecto qui voluptatibus. Adipisci veniam qui est. Ut sed assumenda velit quis nostrum Impedit qui accusantium ut quam repellat tenetur. similique consequatur perferendis voluptates. Aut recusandae iusto quod aliquid laboriosam. Vel nobis fugiat nihil et numquam</blockquote>
+<blockquote>Quos illum dolorem in reprehenderit sit quaerat magni. Sunt porro repellendus est reiciendis. Nemo adipisci velit impedit magni voluptas expedita id dolorum. Omnis labore repudiandae iure sint aut provident sunt. Ipsum exercitationem beatae ipsa eligendi. Quia autem explicabo fuga est. Eum totam deserunt nihil repellat velit. Ipsum et saepe a nostrum et iste eius. Voluptas officiis nulla optio dolore est. Dolor est repellendus autem nobis. Aspernatur recusandae qui non doloremque et enim. Veniam voluptas autem inventore ducimus odit. Est repudiandae ab veritatis dolores occaecati. Ratione nam quaerat aspernatur quas itaque illum cupiditate. Tenetur quibusdam qui laudantium et dolores. Veritatis delectus reprehenderit temporibus ducimus iusto optio ipsam. Inventore quia delectus numquam impedit magnam.</blockquote>
+<ul><li>Vero perspiciatis fuga a repellendus beatae earum quod</li><li>Sit et velit ut quia et</li><li>Qui rerum</li><li>Facilis</li><li>Qui fugit saepe deleniti</li><li>Sunt recusandae quam repellat</li></ul>
+<h5>Mollitia maxime quo ut aut ut</h5>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Exercitationem beatae et iusto consequatur atque quam animi quasi quia nesciunt deleniti suscipit nemo corporis quia accusantium unde vitae non maxime consequatur aliquid repellat occaecati doloribus laborum ut sit non.
+
+Ipsam adipisci architecto rem excepturi natus minima necessitatibus tenetur aliquid aut esse sapiente vel fugit officiis a ut esse quia sint exercitationem sint qui quaerat ipsum ullam odio et et quidem quo nulla qui doloremque et porro consequatur quidem ratione ab sunt aliquam quod molestias unde.]]></excerpt:encoded>
+		<wp:post_id>75</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 07:43:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 07:43:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 07:43:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 07:43:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sit-provident-occaecati-expedita-occaecati-ipsum]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[76]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[04cb529e-25bb-33ac-868e-8867112984ce]]></title>
+		<link>https://amusevalue.tastewp.com/04cb529e-25bb-33ac-868e-8867112984ce/</link>
+		<pubDate>Tue, 31 Aug 2021 11:25:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/614-1199x959.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:25:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:25:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:25:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:25:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[04cb529e-25bb-33ac-868e-8867112984ce]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/614-1199x959.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/04cb529e-25bb-33ac-868e-8867112984ce.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1046;s:6:"height";i:697;s:4:"file";s:48:"2021/08/04cb529e-25bb-33ac-868e-8867112984ce.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"04cb529e-25bb-33ac-868e-8867112984ce-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"04cb529e-25bb-33ac-868e-8867112984ce-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"04cb529e-25bb-33ac-868e-8867112984ce-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"04cb529e-25bb-33ac-868e-8867112984ce-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1046/697/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>					
+					<item>
+		<title><![CDATA[4ad50938-3692-3584-86a9-5a94a6a6a85f]]></title>
+		<link>https://amusevalue.tastewp.com/4ad50938-3692-3584-86a9-5a94a6a6a85f/</link>
+		<pubDate>Tue, 31 Aug 2021 11:25:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wbcomdesigns.com/elementor/wp-content/uploads/256-1200x950.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 11:25:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 11:25:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 11:25:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 11:25:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[4ad50938-3692-3584-86a9-5a94a6a6a85f]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.wbcomdesigns.com/elementor/wp-content/uploads/256-1200x950.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/08/4ad50938-3692-3584-86a9-5a94a6a6a85f.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1334;s:6:"height";i:889;s:4:"file";s:48:"2021/08/4ad50938-3692-3584-86a9-5a94a6a6a85f.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:48:"4ad50938-3692-3584-86a9-5a94a6a6a85f-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"4ad50938-3692-3584-86a9-5a94a6a6a85f-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"4ad50938-3692-3584-86a9-5a94a6a6a85f-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"4ad50938-3692-3584-86a9-5a94a6a6a85f-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:49:"4ad50938-3692-3584-86a9-5a94a6a6a85f-1200x800.jpg";s:5:"width";i:1200;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fakerpress_orginal_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://picsum.photos/1334/889/?random]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Iusto et aliquid sit rerum possimus sint]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/iusto-et-aliquid-sit-rerum-possimus-sint/</link>
+		<pubDate>Mon, 30 Aug 2021 23:50:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/iusto-et-aliquid-sit-rerum-possimus-sint/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Illo sed aspernatur non totam. Et itaque nesciunt aut qui non consequatur sequi. Ab harum quia nam tempora nam. Sunt vero quia et tempore est aperiam. Assumenda maiores et laborum. Dolores facere voluptatem alias quae. Blanditiis facere aut ut modi. Minus nobis cum vel quibusdam. Sit vitae architecto aliquam sint mollitia impedit quia consectetur. Porro eaque beatae reprehenderit qui. Explicabo deleniti architecto dolorem atque ut consequatur ipsum. Vero sunt qui dolore quis animi. Qui animi velit reprehenderit dolorum. Numquam rerum voluptas rerum at. Neque amet maxime enim omnis. Consectetur eos iusto dignissimos exercitationem accusamus vel. Similique harum voluptatem deserunt necessitatibus alias. Quis architecto quas eum nemo minima alias veniam minima. Et eum quis sit blanditiis. Consequatur quis iste doloribus sit. Dolores aut consequatur autem omnis. Dolores libero molestiae at repellat maxime aperiam. Qui commodi praesentium qui quasi asperiores cum quibusdam distinctio. Alias fugit laudantium iste nihil. Placeat expedita enim consequuntur. Non deleniti atque qui est. Vitae et sint alias sit maiores est. Provident est doloremque ut tempora voluptatem. Ut quia numquam voluptatem facilis eum. Maxime ratione voluptatem et eligendi voluptas animi. Ut commodi cum labore aut modi temporibus alias. Ipsam in qui repudiandae atque nobis. Excepturi et labore asperiores est et ipsa vel. Quam saepe aut ducimus nisi soluta odio ut. Quas fugiat qui quis aspernatur voluptas unde dignissimos. Adipisci quia sed ducimus quam. Suscipit quidem dicta vero vitae quia. Voluptas ex accusantium beatae accusamus. Odit maxime quasi numquam. Nihil excepturi ullam iusto odit. Perspiciatis dolor ullam sunt molestias vel. Deleniti blanditiis aspernatur dignissimos explicabo veniam iure.</p>
+<blockquote>In aliquid culpa quo. Libero praesentium rem suscipit quod. Mollitia occaecati voluptas distinctio ut laudantium non. Minus totam et optio non dolor id animi ut. Aliquam blanditiis vero quae. Porro et quas harum alias voluptatibus et sequi. Voluptatem consectetur commodi occaecati delectus voluptas excepturi explicabo iure. Et sit enim debitis exercitationem ipsum. Cum distinctio sit mollitia a. Enim corrupti deserunt pariatur iure ipsam sequi at assumenda. Qui sed dolor vero sed reprehenderit. Laboriosam quod quasi consequatur accusantium voluptas voluptates qui debitis. Quibusdam quia eos non officiis accusantium soluta corporis. Officia quod voluptas quia culpa explicabo. Id nam rem dolorem itaque. Velit omnis vero voluptatem reprehenderit est. Exercitationem ipsum praesentium rerum. Molestiae commodi omnis eos eum est ab dolores. Est harum reprehenderit minima veritatis ut enim in. Quia vitae voluptas rerum molestias magni. Ea vel qui mollitia impedit quisquam reiciendis. Adipisci est optio qui dolores. Provident non qui sed nostrum ut qui doloremque. Modi quibusdam in odit explicabo ut eaque accusantium. Inventore accusamus dolor repudiandae ducimus quo vel. Non quo harum eaque nostrum temporibus. Et harum in ipsam reprehenderit perspiciatis ratione soluta. A molestiae officia exercitationem quia. Error doloribus magnam sit mollitia. Consequatur qui veniam aspernatur voluptas beatae aperiam eligendi. Sunt accusamus voluptas ipsam minus qui temporibus. Fugiat est autem in nulla rerum. Eligendi numquam ut et. Dignissimos nemo deleniti tempora. Enim laboriosam maxime voluptas labore velit enim unde ab. Atque tempora iste blanditiis odio animi exercitationem. Natus et fugit consequuntur aut deleniti nam. Quia accusamus culpa provident rem nihil. Rerum omnis similique ipsa labore ducimus. Totam sint consequatur voluptatem odio qui. Autem est consequatur velit suscipit nam. Quod non qui omnis aspernatur consequatur eum. Asperiores tempore et quisquam sit sunt. Velit necessitatibus non iusto consequatur molestiae. Ut et et deleniti quo aperiam cum minima. Id incidunt animi asperiores recusandae ea ipsa. Recusandae sed rerum veritatis aut molestiae et. A tempore odit quibusdam et culpa aut eaque. Provident sapiente ut in consequuntur id est.</blockquote>
+<ul><li>Qui sint dignissimos nemo nihil magni</li><li>Fugit consequuntur sed soluta suscipit consequatur id</li><li>Eos enim dolore placeat</li><li>Ad aliquid nesciunt quod at dolor</li><li>Fuga et commodi</li><li>Autem minus</li><li>Ut facere mollitia ea et ut</li><li>Tenetur in</li></ul>
+<hr>
+<h6>Quia quia aut ut doloribus dolores. Itaque laudantium vitae sed est</h6>
+<blockquote>Sit vitae fuga necessitatibus facilis cumque odio. Impedit rerum et quisquam. Iusto voluptatibus reiciendis reiciendis labore similique animi vel. Quibusdam eos ad voluptas ab alias. Recusandae voluptatum enim aspernatur iste blanditiis possimus quae. Unde cumque maiores doloremque et aspernatur. Neque odit earum velit veniam saepe. Accusantium in provident natus aliquam quam veritatis id odio. Sint sequi possimus labore eos voluptas. Eos excepturi sed facilis repellat tempore. Unde quia quis et aut libero repellendus. Libero et sit reprehenderit aut. Quas facilis suscipit fugiat id fuga voluptatem suscipit. Molestiae ea et magni quia fugit ducimus. Consequuntur voluptatem ut ut quia minima perferendis impedit. Soluta eaque et quos sed placeat ea. Quisquam beatae quia praesentium. Et qui rem autem qui rem.</blockquote>
+<ul><li>Qui animi officiis officia dolores sint</li><li>Quis aperiam nobis asperiores vel</li><li>Nihil quia dolores assumenda ut quibusdam</li><li>Quos velit dicta</li><li>Culpa omnis</li><li>Rerum ut eum odit</li><li>Ut hic facilis</li></ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 23:50:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 23:50:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 23:50:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 23:50:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[iusto-et-aliquid-sit-rerum-possimus-sint]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[61]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Non nostrum accusantium nisi et possimus qui]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/non-nostrum-accusantium-nisi-et-possimus-qui/</link>
+		<pubDate>Mon, 30 Aug 2021 12:52:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/non-nostrum-accusantium-nisi-et-possimus-qui/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<blockquote>Ex corrupti dolorem. minus consequatur dolor quia. est suscipit minus dolores ab reiciendis. Nesciunt ea ut ea aut id. Deserunt voluptatem error saepe. Harum autem expedita illum. cupiditate ducimus hic voluptate. deserunt et ab quisquam. Iusto deleniti voluptates dolor cumque libero Quis blanditiis voluptas asperiores laudantium enim. Adipisci rem sed non quod iste. sunt ut et. Eligendi et atque officia Aut adipisci neque ipsum <a title="Deleniti quaerat." href="http://www.torp.net/deserunt-ut-et-est-aut-dolores-quo">Qui ipsum</a> esse alias velit ea sit. provident non quia quis molestiae. Quia voluptates voluptas rem id maiores. Eum vero cumque qui. Necessitatibus id aut et Vel molestiae voluptas deleniti Ea earum laboriosam sed. Et culpa qui quis voluptas illo. Magni voluptas quia officiis amet ut Necessitatibus eos ut et itaque et et. Illo possimus illum temporibus qui nulla Autem totam eaque quaerat optio. Dolor deleniti accusamus molestiae Excepturi in ut tenetur consequuntur autem. Et enim quam aut. Velit qui illo fugit quaerat consequatur. Delectus laudantium maiores dolorem qui nihil et. culpa consectetur vero id perferendis nihil perspiciatis Rerum quia itaque et rerum quis nesciunt. Quaerat quaerat qui dolorem ea debitis. Consequatur atque voluptas sunt hic autem quas distinctio. Sed at nulla eius qui ut. provident quidem animi molestiae. Quo neque et. Eum et ut sit rerum ut. Optio impedit ea a Voluptas pariatur est quis Saepe similique odit aut. Aliquam voluptatum et nulla ab et. Sint sunt illo iure.</blockquote>
+<blockquote><a title="Cumque dolorem asperiores laborum." href="http://bode.net/consequatur-aut-voluptatem-aut-veritatis-ut-quia-voluptate-est">Illum illo vero temporibus</a> Error repellendus qui inventore necessitatibus ullam ab. Accusamus qui non praesentium maxime. voluptates magni esse eius commodi. Eos sit debitis ex odio <a title="Quia." href="http://www.johns.com/molestias-ut-sint-eos-perspiciatis-amet-numquam-delectus-enim.html">Dolores qui</a> qui ipsa excepturi. Molestiae cumque qui dolorem corporis. corrupti molestias nihil libero Aperiam mollitia ipsum <a title="Nihil numquam." href="http://king.com/aut-laboriosam-autem-ullam-ipsam-accusantium-ducimus-et">necessitatibus. Ut vero et</a> dolores <a title="Cum optio." href="http://www.rath.com/quod-et-veritatis-consequatur-fugiat-et-quod-voluptates">Ut eligendi laboriosam necessitatibus nesciunt</a> consequuntur eligendi nostrum. Excepturi perferendis provident voluptas. explicabo numquam et ea. Ut est <a title="Modi sint aut architecto et et." href="http://altenwerth.com/quod-laboriosam-aperiam-veniam-voluptas">molestias rerum magni. Dignissimos</a> quod aut possimus nisi est autem. Consequuntur corrupti aut. <a title="Numquam voluptatem quae." href="http://reilly.com/et-quas-architecto-minima-eos-in-tenetur-ut">unde</a> perspiciatis eius. Facere aut quasi qui facere qui accusantium.</blockquote>
+<h4>Enim nisi dolores vitae repellendus quia dignissimos ex</h4>
+<ul><li>Ut illo officia</li><li>Ut est aut sed</li><li>Saepe omnis quis ut nulla eos</li><li>Aut dolores suscipit dolorem qui quia vero facilis nisi</li></ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Velit expedita occaecati voluptatem dolores odit non laborum asperiores quo commodi in quo iusto cumque rerum recusandae enim sunt omnis molestiae quis itaque minus rerum quas ex provident expedita vel alias pariatur omnis.
+
+Quos cum doloremque illum odit tenetur corporis quidem assumenda veritatis dicta amet eum labore culpa quo ut non consequatur eum quisquam numquam rerum quos non aut enim vitae cumque ex dignissimos.]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 12:52:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 12:52:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 12:52:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 12:52:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[non-nostrum-accusantium-nisi-et-possimus-qui]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dolorem enim dignissimos sed maiores]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/dolorem-enim-dignissimos-sed-maiores/</link>
+		<pubDate>Mon, 30 Aug 2021 15:01:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/dolorem-enim-dignissimos-sed-maiores/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h5>Consequuntur quo sit occaecati ab tempora</h5>
+<blockquote>Nihil voluptas animi omnis sequi. Dolorem tempore quo voluptate Laboriosam incidunt labore ut ea molestias est. Accusamus ea quos. Beatae iste amet qui voluptas omnis suscipit Quidem consequatur distinctio omnis nostrum repudiandae accusantium. Id quibusdam aut sapiente rem. Quos vel quam et et est modi. reprehenderit nisi dolor ipsa consequatur Eaque dolore hic et quia eum. Sapiente fugit tempore consequatur fuga. Nisi fugiat sed fuga suscipit non. Repudiandae corrupti dignissimos voluptas. Alias <a title="Et porro quo iure." href="http://www.schoen.com/molestiae-praesentium-non-est-aut-qui">odit maxime qui sed ex</a> Unde illo voluptatem sunt similique odio. quisquam natus non quam consequatur. dicta id ipsam unde ut. Quo natus quidem ea ex nisi. Impedit dolores repellendus ea tenetur voluptatem aspernatur Tempora rerum porro dolorem amet.</blockquote>
+<h5>Recusandae repudiandae nihil ut. Optio a et aliquam non molestiae. Minus amet sit et</h5>
+<ul><li>Minus nesciunt et qui</li><li>Quia ea natus praesentium sed distinctio</li><li>Laborum doloribus doloribus non impedit quia</li><li>Ut quas</li></ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Sunt dolor voluptates et nihil dolore unde totam quidem cum qui magni est et repellendus debitis ex alias laboriosam qui deleniti blanditiis id voluptate aspernatur in sed magnam est est nobis non culpa minima labore aliquam tempore quis numquam repudiandae et neque nostrum et eaque porro dolor et enim minima tempore sed.]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 15:01:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 15:01:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 15:01:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 15:01:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[dolorem-enim-dignissimos-sed-maiores]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Eveniet aut et perspiciatis]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/eveniet-aut-et-perspiciatis/</link>
+		<pubDate>Mon, 30 Aug 2021 15:15:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/eveniet-aut-et-perspiciatis/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h6>Libero enim totam rerum autem libero similique itaque. A et accusantium et recusandae rem amet</h6>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Voluptatem mollitia aut quo quibusdam sint consectetur voluptate vel esse nostrum aliquid eum qui numquam nobis et sint magni nihil quos et aliquid eum ut a deleniti non sit mollitia sequi aliquid et consectetur sunt ut nemo ut quaerat et error maiores iure sapiente voluptas dolores commodi ducimus dolor non omnis ipsa accusantium similique doloribus amet est sint aliquid nulla qui inventore inventore eaque velit esse autem quis nostrum.]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 15:15:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 15:15:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 15:15:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 15:15:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[eveniet-aut-et-perspiciatis]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[69]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Eum inventore dolorem nemo alias laudantium occaecati]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/eum-inventore-dolorem-nemo-alias-laudantium-occaecati/</link>
+		<pubDate>Mon, 30 Aug 2021 18:07:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/eum-inventore-dolorem-nemo-alias-laudantium-occaecati/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul><li>Tenetur provident blanditiis rerum est</li><li>Non aut in eos</li><li>Expedita</li></ul>
+<h6>Sed et qui cumque porro. Totam qui sed odio consequuntur neque. Vitae consequuntur qui qui</h6>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Reiciendis perferendis perspiciatis inventore ullam ea vero minus molestias veniam autem sed quis veniam aut consequatur non rerum amet fugit animi dolores et possimus laboriosam quos placeat necessitatibus est at adipisci harum sunt aut laborum eum et optio quam culpa.]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 18:07:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 18:07:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 18:07:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 18:07:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[eum-inventore-dolorem-nemo-alias-laudantium-occaecati]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Iusto dolores et et]]></title>
+		<link>https://amusevalue.tastewp.com/2021/08/30/iusto-dolores-et-et/</link>
+		<pubDate>Mon, 30 Aug 2021 19:06:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://amusevalue.tastewp.com/2021/08/30/iusto-dolores-et-et/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>Sapiente ratione et tempore perspiciatis. Et voluptas provident explicabo saepe</h3>
+<ul><li>Libero ut et et nesciunt</li><li>Vel blanditiis</li><li>Nihil qui dicta sed qui qui magnam itaque</li><li>Ex quis illum ut iusto</li></ul>
+<hr>
+<h4>Id ullam aut quaerat. Laudantium perspiciatis at possimus. Veritatis in a et dolor</h4>
+<blockquote>Laudantium ut id quibusdam eius eum. Aliquam <a title="Rerum nam dolores itaque et." href="http://www.considine.com/ullam-voluptatum-iusto-velit-vel"><a title="Numquam aut nihil." href="https://www.crist.com/dolor-minima-suscipit-et-tenetur-autem-pariatur-sunt-doloribus">debitis sed</a></a> est quis. Recusandae culpa esse qui qui.</blockquote>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Culpa repellat ipsa ut et veritatis iusto accusantium neque explicabo non maiores rem facere quia ex omnis est quo nesciunt voluptas quae quo et ipsa in dolore assumenda quo vel assumenda adipisci aliquam dolor neque nihil voluptas ullam quis non repellendus sit ea consequatur nemo voluptatem quia adipisci aut et iusto nostrum.
+
+Et ut odio et rem vitae porro quasi sint enim est natus blanditiis asperiores voluptates animi placeat est sequi a vel dolores sed cumque laudantium facere quis saepe aut architecto nihil quis reprehenderit accusamus nobis possimus aspernatur ut error ipsam quam sequi ut beatae rerum aut eaque dolor quis veritatis animi non et sit.
+
+Aspernatur omnis nihil vel voluptatem deleniti voluptatem optio modi placeat odit aut eos quod est quos earum odit qui soluta eum dolorem et et cupiditate omnis rerum velit omnis officiis odit odio accusamus sint deleniti dignissimos quasi porro reprehenderit sunt nihil sit hic repellendus ratione enim voluptatem vel rerum autem.]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-30 19:06:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-30 19:06:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 19:06:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 19:06:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[iusto-dolores-et-et]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[fakerpress_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
+</rss>
