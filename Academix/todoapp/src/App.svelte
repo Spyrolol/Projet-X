@@ -3,32 +3,36 @@
   let API_URL = "http://localhost:5038/";
   let notes = [];
   let newNotes = "";
+
+
   function refreshList() {
     fetch(API_URL + "api/todoapp/GetNotes")
       .then((response) => response.json())
-      .then((data) => {
+      .then(data => {
         notes = data;
       });
   }
-  import { onMount } from "svelte";
+
+
+
+  import { onMount } from 'svelte';
   onMount(async () => {
     refreshList();
   });
 
   function addNotes() {
-    const data = new FormData();
-    data.append("newNotes", newNotes);
-
+    const data=new FormData();
+    data.append("newNotes",newNotes);
     fetch(API_URL + "api/todoapp/AddNotes", {
-      method: "POST",
-      body: data,
-    })
-      .then(response => response.json())
-      .then(data => {
-        alert(data);
-        refreshList();
-      });
-  }
+    method: "POST",
+    body: data
+   })
+    .then((response) => response.json())
+    .then(data => {
+      alert(data);
+      refreshList();
+    });
+}
 
   function deleteNotes(id) {
     fetch(API_URL + "api/todoapp/DeleteNotes?id=" + id, {

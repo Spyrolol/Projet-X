@@ -1,7 +1,7 @@
 var Express = require("express");
 var MongoClient = require("mongodb").MongoClient;
 var cors = require("cors");
-
+const multer=require("multer");
 var app = Express();
 app.use(cors());
 
@@ -39,7 +39,7 @@ database.collection("todoappcollection").count({},function(error,numOfDocs){
         id:(numOfDocs+1).toString(),
         description:request.body.newNotes
     });
-    response.json("Ajouter avec succes");
+    response.json("Ajouter avec succes" );
 })
 })
 
