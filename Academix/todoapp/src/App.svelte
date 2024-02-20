@@ -1,6 +1,13 @@
 <script>
-  import Router from './routes/index.svelte';
+  import Router from "./routes/index.svelte";
+  import "./main.css";
 </script>
+
+<main>
+  <div class="italic">This is a test.</div>
+  <h1>Academix</h1>
+  <Router />
+</main>
 
 <style>
   main {
@@ -10,8 +17,3 @@
     margin: 0 auto;
   }
 </style>
-
-<main>
-  <h1>Academix</h1>
-  <Router />
-</main>
