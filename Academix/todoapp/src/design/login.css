@@ -1,0 +1,134 @@
+body {
+    background-color: lightgray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#logo {
+    margin: auto;
+    margin-top: 70px;
+    display: flexbox;
+    text-align: center;
+}
+
+#loginbox {
+    height: 500px;
+    width: 450px;
+    
+}
+
+#signupbox {
+    height: 600px;
+    width: 450px;
+    margin-bottom: 60px;
+}
+
+main {
+    margin: auto;
+    margin-top: 20px;
+    display: flexbox;
+    background-color: rgb(243, 241, 241);
+    border-radius: 10px;
+    border-color: rgb(220, 220, 220);
+    border-style: groove;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#instruction {
+    margin-block: 40px;
+    font-family: inherit;
+    font-size: 20px;
+    text-decoration-line: underline;
+}
+
+.loginInput {
+    width: 60%;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+
+input[type=submit]{
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #1877f2;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+    padding-inline: 100px;
+}
+
+#oubli {
+    font-family: inherit;
+    margin: 20px;
+    padding: 10px;
+    border-color: rgb(195, 195, 195);
+    border-radius: 7px;
+    background-color: whitesmoke;
+}
+
+#autreOption {
+    margin-top: 20px;
+}
+
+#noms {
+    border-color: rgb(214, 213, 213);
+    padding: 5px;
+    border-radius: 5px;
+    margin-inline: 5px;
+    font-size: 15px;
+    margin: 10px;
+    width: 35%;
+    text-align: center;
+}
+
+#emailId {
+    width: 76%;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: rgb(214, 213, 213);
+    margin: 10px;
+    text-align: center;
+}
+
+#mdpCreation {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    font-size: 15px;
+    width: 76%;
+    border-radius: 5px;
+    border-color: rgb(214, 213, 213);
+}
+
+#telId {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: rgb(214, 213, 213);
+}
+
+#dateNaissance {
+    margin: 10px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: rgb(214, 213, 213);
+    text-align: center;
+}
+
+#genre {
+    margin: 10px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: rgb(214, 213, 213);
+    text-align: center;
+}
